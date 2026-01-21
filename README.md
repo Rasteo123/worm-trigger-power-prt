@@ -85,12 +85,12 @@ Total: ~620KB packaged skill
 
 12 types with RU/EN labels:
 - **Бугай / Brute**: Enhanced durability/strength
-- **Ловкач / Mover**: Enhanced mobility
+- **Движок / Mover**: Enhanced mobility
 - **Шейкер / Shaker**: Area control
 - **Бластер / Blaster**: Ranged attacks
 - **Страйкер / Striker**: Touch-based effects
-- **Чейнджер / Changer**: Self-transformation
-- **Незаметник / Stranger**: Stealth/confusion
+- **Оборотень / Changer**: Self-transformation
+- **Скрытник / Stranger**: Stealth/confusion
 - **Повелитель / Master**: Minion control
 - **Мыслитель / Thinker**: Information gathering
 - **Технарь / Tinker**: Super-crafting
