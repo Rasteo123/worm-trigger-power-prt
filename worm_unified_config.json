@@ -1,0 +1,139 @@
+{
+  "name": "worm_trigger_power_prt",
+  "description": "Worm universe trigger-power bidirectional generator with PRT classification",
+  "version": "1.0",
+  "sources": [
+    {
+      "type": "pdf",
+      "name": "blasters",
+      "path": "./BLASTERS.pdf",
+      "description": "Blaster classification and trigger mechanics"
+    },
+    {
+      "type": "pdf",
+      "name": "breakers",
+      "path": "./BREAKERS.pdf",
+      "description": "Breaker classification and trigger mechanics"
+    },
+    {
+      "type": "pdf",
+      "name": "brute",
+      "path": "./BRUTE.pdf",
+      "description": "Brute classification and trigger mechanics"
+    },
+    {
+      "type": "pdf",
+      "name": "changer",
+      "path": "./CHANGER.pdf",
+      "description": "Changer classification and trigger mechanics"
+    },
+    {
+      "type": "pdf",
+      "name": "movers",
+      "path": "./MOVERS.pdf",
+      "description": "Mover classification and trigger mechanics"
+    },
+    {
+      "type": "pdf",
+      "name": "prt_quest",
+      "path": "./PRT Quest.pdf",
+      "description": "PRT Quest comprehensive guide"
+    },
+    {
+      "type": "pdf",
+      "name": "sample_multitrigger",
+      "path": "./Sample Multitrigger.pdf",
+      "description": "Multi-trigger and cluster trigger examples"
+    },
+    {
+      "type": "pdf",
+      "name": "strangers",
+      "path": "./STRANGERS.pdf",
+      "description": "Stranger classification and trigger mechanics"
+    },
+    {
+      "type": "pdf",
+      "name": "strikers",
+      "path": "./STRIKERS.pdf",
+      "description": "Striker classification and trigger mechanics"
+    },
+    {
+      "type": "pdf",
+      "name": "thinkers",
+      "path": "./THINKERS.pdf",
+      "description": "Thinker classification and trigger mechanics"
+    },
+    {
+      "type": "pdf",
+      "name": "tinkers",
+      "path": "./TINKERS.pdf",
+      "description": "Tinker classification and trigger mechanics"
+    },
+    {
+      "type": "pdf",
+      "name": "trump",
+      "path": "./TRUMP.pdf",
+      "description": "Trump classification and trigger mechanics"
+    },
+    {
+      "type": "pdf",
+      "name": "trigger_mechanics_ru",
+      "path": "./Механика-Триггеров.pdf",
+      "description": "Trigger mechanics (Russian translation)"
+    },
+    {
+      "type": "pdf",
+      "name": "triggers_ru",
+      "path": "./Триггеры.pdf",
+      "description": "Triggers overview (Russian translation)"
+    },
+    {
+      "type": "pdf",
+      "name": "breaker_triggers_ru",
+      "path": "./Триггеры-Изломов-_Breaker_.pdf",
+      "description": "Breaker triggers (Russian translation)"
+    },
+    {
+      "type": "pdf",
+      "name": "trump_triggers_ru",
+      "path": "./Триггеры-Козырей-_Trump_.pdf",
+      "description": "Trump triggers (Russian translation)"
+    },
+    {
+      "type": "pdf",
+      "name": "master_triggers_ru",
+      "path": "./Триггеры-Повелителей-_Master_.pdf",
+      "description": "Master triggers (Russian translation)"
+    },
+    {
+      "type": "documentation",
+      "name": "trigger_event_wiki",
+      "base_url": "https://worm.fandom.com/wiki/Trigger_Event",
+      "description": "Worm Wiki: Trigger Event mechanics and examples",
+      "selectors": {
+        "content": ".mw-parser-output"
+      }
+    },
+    {
+      "type": "documentation",
+      "name": "power_classifications_wiki",
+      "base_url": "https://worm.fandom.com/wiki/Power_Classifications",
+      "description": "Worm Wiki: PRT Power Classification system",
+      "selectors": {
+        "content": ".mw-parser-output"
+      }
+    },
+    {
+      "type": "documentation",
+      "name": "shard_wiki",
+      "base_url": "https://worm.fandom.com/wiki/Shard",
+      "description": "Worm Wiki: Shard mechanics and connection to triggers",
+      "selectors": {
+        "content": ".mw-parser-output"
+      }
+    }
+  ],
+  "output_dir": "./worm_trigger_power_prt_skill",
+  "max_pages_per_pdf": 0,
+  "rate_limit": 1.0
+}
